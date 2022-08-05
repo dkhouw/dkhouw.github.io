@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About me
+Hi there! To start off, I graduated in May 2021 from UBC Vancouver with a BSc in Mathematics. Currently pursuing a career in data analytics/data science. Follow me as I improve on my data and programming skills! Besides data and math, I am also a hip-hop dancer! Just started picking up more styles too such as house, popping, and litefeet. House is my focus right now! Maybe I'll start posting my progress videos here too :) Work and dance take up most of my time, but when I'm not doing either, I like to play chess (badly) and am currently binging Castlevania with my boyfriend. I love vampires.
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Anyways, I created this site to create a one-stop spot where one can get to know me a little bit better and also check out the fun side projects I worked on. Enjoy!
